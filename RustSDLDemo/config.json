@@ -1,0 +1,6 @@
+{
+	"label": "Rust SDL Demo",
+	"icon": "assets/rust-logo-64x64.png",
+	"launch": "launch.sh",
+	"description": "Simple demo of a Rust program using SDL1.2 with bindgen"
+}
